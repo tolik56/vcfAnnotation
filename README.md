@@ -1,6 +1,7 @@
 # vcfAnnotation
-Tempus' VCF Annotation
-The program reads VCF file and add annotation from SnpEff and ExAC. The output 
+
+VCF Annotation
+The program reads VCF file and add annotation from SnpEff and ExAC.
 
 Required Software:
 	SnpEff
@@ -14,5 +15,5 @@ Usage
 
 ./master.sh full_path_VCF report.
 
-The script reads VCF file and generated tab delimited report.
+The script reads VCF file and generates a tab delimited report.
 
